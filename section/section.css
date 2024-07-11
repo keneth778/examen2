@@ -1,0 +1,13 @@
+.grid-principal{
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    width: 375px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+}
+.grid{
+    background-color: rgb(75, 74, 74);
+    margin: 10px;
+    
+}
