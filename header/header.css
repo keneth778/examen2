@@ -4,6 +4,7 @@
     border: 2px solid black;
     margin: 20px;
     justify-content: space-between;
+    max-width: 375px;
 }
 
 .usuario{
