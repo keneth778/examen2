@@ -2,7 +2,7 @@
     display: flex;
     flex-flow: row wrap;
     border: 2px solid black;
-    margin: 20px;
+    margin: 1px;
     justify-content: space-between;
 }
 
