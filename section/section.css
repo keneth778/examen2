@@ -4,10 +4,24 @@
     width: 350px;
     height: 200px;
     border: 2px solid black;
-    margin-left: 12px;
+    margin: 1px;
     
 }
-.grid{
+.grid1{
     background-color: rgb(75, 74, 74);
     margin: 10px;
+    grid-template-rows: 1/1;
+    grid-template-columns: 1/1;
+}
+.grid2{
+    background-color: rgb(75, 74, 74);
+    margin: 10px;
+    grid-template-rows: 2/2;
+    grid-template-columns: 2/2;
+}
+.grid3{
+    background-color: rgb(75, 74, 74);
+    margin: 10px;
+    grid-template-rows: 3/3;
+    grid-template-columns: 3/3;
 }
