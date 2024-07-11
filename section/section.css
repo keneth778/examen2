@@ -1,10 +1,11 @@
 .grid-principal{
     display: grid;
     grid-template-rows: repeat(3, 1fr);
-    width: 375px;
+    width: 350px;
     height: 200px;
     border: 2px solid black;
-    margin-left: 20px;
+    margin-left: 12px;
+    
 }
 .grid{
     background-color: rgb(75, 74, 74);
