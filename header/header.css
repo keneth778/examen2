@@ -1,0 +1,23 @@
+.flexbox{
+    display: flex;
+    flex-flow: row wrap;
+    border: 2px solid black;
+    margin: 20px;
+    justify-content: space-between;
+}
+
+.usuario{
+   font-size:10px;
+   margin: 10px;
+   font-size: 3rem;
+}
+.git{
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 2px 20px;
+    font-size: 16px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin: auto;
+
+}
